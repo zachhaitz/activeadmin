@@ -15,6 +15,7 @@
 ### Bug Fixes
 
 * Fix for paginated collections with `per_page: Array, pagination_total: false`. [#5627] by [@bartoszkopinski]
+* Bad interpolation variables on pagination keys in Lithuanian translation. [#5631] by [@deivid-rodriguez]
 
 ### Removals
 
@@ -393,6 +394,7 @@ Please check [0-6-stable] for previous changes.
 [#5608]: https://github.com/activeadmin/activeadmin/pull/5608
 [#5611]: https://github.com/activeadmin/activeadmin/pull/5611
 [#5627]: https://github.com/activeadmin/activeadmin/pull/5627
+[#5631]: https://github.com/activeadmin/activeadmin/pull/5631
 
 [@5t111111]: https://github.com/5t111111
 [@aarek]: https://github.com/aarek
